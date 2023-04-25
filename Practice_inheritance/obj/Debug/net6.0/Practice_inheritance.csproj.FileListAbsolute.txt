@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/bin/Debug/net6.0/Practice_inheritance
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/bin/Debug/net6.0/Practice_inheritance.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/bin/Debug/net6.0/Practice_inheritance.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/bin/Debug/net6.0/Practice_inheritance.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/bin/Debug/net6.0/Practice_inheritance.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/refint/Practice_inheritance.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/Practice_inheritance.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Practice_inheritance/Practice_inheritance/obj/Debug/net6.0/ref/Practice_inheritance.dll

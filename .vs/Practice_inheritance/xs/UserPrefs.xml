@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{42122DE9-E0D7-4A25-A499-48962562B4F4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Practice__inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice_inheritance/Program.cs">
+    <Files>
+      <File FileName="Practice_inheritance/Program.cs" Line="26" Column="1" />
+      <File FileName="Practice_inheritance/Vehicle.cs" Line="16" Column="1" />
+      <File FileName="Practice_inheritance/Air.cs" Line="11" Column="1" />
+      <File FileName="Practice_inheritance/Helicopter.cs" Line="10" Column="23" />
+      <File FileName="Practice_inheritance/Plane.cs" Line="16" Column="1" />
+      <File FileName="Practice_inheritance/Land.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
